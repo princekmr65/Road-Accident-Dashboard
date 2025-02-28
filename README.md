@@ -7,6 +7,4 @@ This repository contains an interactive Road Accident Dashboard built using Exce
 🛣 Accident Causes: Breakdown of major contributing factors.
 📍 Location-Based Reports: Geographic trends for road safety improvements
 
-![image](https://github.com/user-attachments/assets/51dec55b-c4b4-4a93-9250-b5c28b815ddd)
-
 
